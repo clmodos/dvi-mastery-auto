@@ -1,0 +1,14 @@
+{
+  "base": "https://raw.githubusercontent.com/clmodos/dvi-mastery-auto/main",
+  "generatedAt": "2026-11-15T09:18:16.170Z",
+  "scripts": [
+    {
+      "slug": "dvi-mastery-auto.all-in-one",
+      "name": "[DVI]精通自动制造（内置精通助手 1.2.15）",
+      "version": "0.2.6",
+      "description": "单文件版：内置 [DVI]精通助手 1.2.15 数据适配层（作者 SHIIN，CC-BY-ND），自动补料制造并统计金币与精通收益。",
+      "downloadURL": "https://raw.githubusercontent.com/clmodos/dvi-mastery-auto/main/dvi-mastery-auto.all-in-one.user.js",
+      "updateURL": "https://raw.githubusercontent.com/clmodos/dvi-mastery-auto/main/dvi-mastery-auto.all-in-one.meta.js"
+    }
+  ]
+}
