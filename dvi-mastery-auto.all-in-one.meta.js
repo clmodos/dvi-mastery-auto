@@ -12,8 +12,6 @@
 // @inject-into  page
 // @noframes
 // @license      CC-BY-ND
-
-
 // @updateURL    https://raw.githubusercontent.com/clmodos/dvi-mastery-auto/main/dvi-mastery-auto.all-in-one.meta.js
 // @downloadURL  https://raw.githubusercontent.com/clmodos/dvi-mastery-auto/main/dvi-mastery-auto.all-in-one.user.js
 // ==/UserScript==
